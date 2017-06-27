@@ -329,7 +329,7 @@ public class TwoDTree {
     /**
      * Method to obtain the list of crimes committed within a radius from the given location.
      * @param x X coordinate of the location on map
-	 * @param y Y coordinate of the location on map
+     * @param y Y coordinate of the location on map
      * @param range Distance form the location up to which nearest crimes need to be found
      * @return list of crimes committed in the area
      */
@@ -376,7 +376,7 @@ public class TwoDTree {
     /**
      * Method to obtain the list of crimes committed within a given rectangular area.
      * @param x1 X coordinate of the lower left corner of rectangular area on map
-	 * @param y1 Y coordinate of the lower left corner of rectangular area on map
+     * @param y1 Y coordinate of the lower left corner of rectangular area on map
      * @param x2 X coordinate of the upper right corner of rectangular area on map
      * @param y1 Y coordinate of the upper right corner of rectangular area on map
      * @return list of crimes committed within a given area
